@@ -3,33 +3,31 @@
 
 Для добавления обычного текста просто введите его в редакторе. Используйте абзацы для разделения текста. Текст автоматически адаптируется под ширину контейнера. Вы можете использовать этот блок для любых текстовых описаний, статей или повествовательных фрагментов.
 
-![image](img/en-longread/text.jpg)
-
-![image](img/en-longread/2026-01-15_164047.png)
+![image](../img/en-longread/text.jpg)
 
 ## Жирный текст
 
 Вы можете выделить важный абзац текста жирным шрифтом. Это помогает читателям быстро находить ключевые моменты и основные мысли.
 
-![image](img/en-longread/text-strong.jpg)
+![image](../img/en-longread/text-strong.jpg)
 
 ## Текст в две колонки
 
 Идеально подходит для сравнения двух концепций, перечисления преимуществ/недостатков или представления информации в компактном формате.
 
-![image](img/en-longread/two-columns.jpg)
+![image](../img/en-longread/two-columns.jpg)
 
 ## Текст в три колонки
 
 Отлично подходит для перечисления характеристик или особенностей в структурированном виде.
 
-![image](img/en-longread/three-columns.jpg)
+![image](../img/en-longread/three-columns.jpg)
 
 ## Текст в четыре колонки
 
 Максимально компактное представление информации.
 
-![image](img/en-longread/four-columns.jpg)
+![image](../img/en-longread/four-columns.jpg)
 
 # Список
 
@@ -37,13 +35,13 @@
 
 Используется для неупорядоченных перечислений, где порядок элементов не имеет значения.
 
-![image](img/en-longread/unordered-list.jpg)
+![image](../img/en-longread/unordred-list.jpg)
 
 ## Нумированный список
 
 Применяется, когда порядок элементов важен — для пошаговых инструкций, рейтингов или последовательных процессов.
 
-![image](img/en-longread/ordered-list.jpg)
+![image](../img/en-longread/ordered-list.jpg)
 
 # Текст на подложке
 
@@ -51,19 +49,19 @@
 
 Выделяет текст на фоне основного контента, создавая визуальный акцент без резкого контраста.
 
-![image](img/en-longread/light-bg-text.jpg)
+![image](../img/en-longread/light-bg-text.jpg)
 
 ## Синяя подложка
 
 Создает сильный визуальный акцент, привлекающий внимание к ключевой информации.
 
-![image](img/en-longread/blue-bg-text.jpg)
+![image](../img/en-longread/blue-bg-text.jpg)
 
 ## Цитата
 
 Визуально отделяет цитаты от основного текста, улучшая читабельность.
 
-![image](img/en-longread/quote.jpg)
+![image](../img/en-longread/quote.jpg)
 
 # Изображение
 
@@ -73,35 +71,35 @@
 
 Классическое расположение изображения с автоматическими отступами по бокам.
 
-![image](img/en-longread/centered-picture.jpg)
+![image](../img/en-longread/centered-picture.jpg)
 
 ## На весь экран
 
 Изображение, масштабируемое под всю ширину экрана.
 
-![image](img/en-longread/fullwidth-picture.jpg)
+![image](../img/en-longread/fullwidth-picture.jpg)
 
 ## С подписью
 
 Добавление пояснительного текста под изображением для лучшего понимания контекста.
 
-![image](img/en-longread/caption-picture.jpg)
+![image](../img/en-longread/caption-picture.jpg)
 
 ## С подписью (ссылкой)
 
 Подпись, которая также является кликабельной ссылкой для перехода на другую страницу.
 
-![image](img/en-longread/link-picture.jpg)
+![image](../img/en-longread/link-picture.jpg)
 
 ## Изображение слева, текст справа
 
 Классическая компоновка для сочетания визуального и текстового контента.
 
-![image](img/en-longread/left-picture.jpg)
+![image](../img/en-longread/left-picture.jpg)
 
 ## Изображние справа, текст слева
 
 Альтернативное расположение для визуального разнообразия и баланса на странице.
 
-![image](img/en-longread/right-picture.jpg)
+![image](../img/en-longread/right-picture.jpg)
 
